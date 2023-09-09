@@ -84,7 +84,7 @@ func main() {
 			echo "Docker Compose installed"
 			
 			# Clone the application repository
-			git clone https://github.com/Farhanger9/pulumi.git /home/ubuntu/app
+			git clone https://github.com/Farhanger9/Brenda.git  /home/ubuntu/app
 			echo "Cloned the application repository"
 			
 			# Navigate to the app directory and start Docker Compose
@@ -104,3 +104,5 @@ func main() {
 		return nil
 	})
 }
+
+// Farhang Einifar
